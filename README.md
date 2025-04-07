@@ -24,8 +24,10 @@ This project implements an uncertainty-aware reasoning agent using the Agno fram
 
 #Output
 1. CLI
+   ![1743143954376](https://github.com/user-attachments/assets/f6bb54c0-9535-4857-92e3-d9ef1c76c2f1)
 
 2. GUI
+![Screenshot 2025-04-07 at 3 48 29 PM](https://github.com/user-attachments/assets/6f6e8c99-185c-40ac-b038-ac4b1a9e0c6d)
 
 
 
